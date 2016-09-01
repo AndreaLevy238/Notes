@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.andrea.notes.MainActivity">
+    <item
+        android:id="@+id/add_note"
+        android:title="@string/plus"
+        app:showAsAction="always" />
+</menu>
